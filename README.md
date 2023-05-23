@@ -1,4 +1,6 @@
 # Curriculum.ia
+> **_NOTE:_**  Its not wrong, the best name have : .ia ("Inteligencia Artificial") from of artificial intelligence in spanish 😅
+
 
 Its a only backend project to experiment with:
 
